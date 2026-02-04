@@ -1,0 +1,32 @@
+{
+  "_id": "69f7c03679fd12c8679e7e3e",
+  "name": "Pleated Midi Skirt",
+  "description": "Elegant pleated midi skirt with a high waistband and soft fabric that drapes beautifully. Ideal for both formal and casual occasions.",
+  "price": 55,
+  "discountPrice": 50,
+  "countInStock": 20,
+  "sku": "BW-W-004",
+  "category": "Bottom Wear",
+  "brand": "ChicStyle",
+  "sizes": ["S", "M", "L"],
+  "colors": ["Pink", "Navy", "Black"],
+  "collections": "Spring Collection",
+  "material": "Polyester",
+  "gender": "Women",
+  "images": [
+    {
+      "url": "https://picsum.photos/500/500?random=22",
+      "altText": "Pleated Midi Skirt Front View",
+      "_id": "69f7c03679fd12c8679e7e3f"
+    }
+  ],
+  "isFeatured": false,
+  "isPublished": false,
+  "rating": 4.6,
+  "numReviews": 18,
+  "tags": [],
+  "user": "69f7c03579fd12c8679e7e08",
+  "__v": 0,
+  "createdAt": "2026-05-03T21:37:58.336Z",
+  "updatedAt": "2026-05-03T21:37:58.336Z"
+}
