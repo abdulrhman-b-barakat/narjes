@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-naseej-red: #ea2e0e;
+  --breakpoint-xs: 480px;
+  --container-center: true;
+}
+
+* {
+  list-style: none;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@utility container {
+  margin-inline: auto; 
+}
+@layer utilities {
+  .root-container {
+    @apply flex min-h-screen flex-1 flex-col  px-5 xs:px-10 md:px-16;
+  }
+  /* .cart-list {
+    @apply flex
+  }
+  .cart-list img {
+    @apply rounded-sm
+  }
+  .cart-list .info {
+    @apply flex
+  } */
+}
