@@ -20,7 +20,7 @@ const Login = () => {
 
   return (
     <section className="flex">
-      <div className="w-full md:w-1/2 flex flex-col justify-center items-center p-8 md:p-12">
+      <div className="w-full flex flex-col justify-center items-center p-8 md:p-12">
         <form
           onSubmit={handleSubmit}
           className="w-full max-w-md bg-white p-8 rounded-lg border border-gray-300 shadow-sm"
